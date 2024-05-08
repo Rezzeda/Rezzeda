@@ -16,7 +16,7 @@
 
 ## <div align="left">✨I'm a frontend developer✨</div>
 
-I've started learning to code after switching careers. I've already started my journey in the world of frontend development. I'm fascinated by the blend of creativity and technical skills needed to craft unique user interfaces. My current efforts are focused on mastering the fundamentals. Now I'm looking for a cool team to further grow in this exciting field.
+I've engaged in coding after switching careers. I've already started my journey in the world of frontend development. I'm fascinated by the blend of creativity and technical skills needed to craft unique user interfaces. My current efforts are focused on mastering the fundamentals. Now I'm looking for a cool team to further grow in this exciting field.
 
 * 🌍  I'm based in Izhevsk
 
